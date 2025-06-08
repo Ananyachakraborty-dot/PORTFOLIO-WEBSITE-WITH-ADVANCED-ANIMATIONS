@@ -51,4 +51,12 @@ Optional sections may include testimonials, blog posts, or an interactive 3D ele
 **Conclusion**
 This project enables you to combine core front-end development skills with advanced animation techniques to build a dynamic and professional portfolio website. By using tools like GSAP and optionally Three.js, you will gain hands-on experience with interactive design and motion, elevating both the aesthetics and user experience. Completing this portfolio not only enhances your web development skills but also provides a polished showcase of your abilities to future employers or collaborators.
 
+**OUTPUT**
 
+![Image](https://github.com/user-attachments/assets/2d151cff-17b6-4566-8b01-c3e5b5de202b)
+
+![Image](https://github.com/user-attachments/assets/8039d52d-65d4-4800-bb8b-ccf7249dcf2c)
+
+![Image](https://github.com/user-attachments/assets/5620df81-569b-4c32-a96e-f2a7bcb4a846)
+
+![Image](https://github.com/user-attachments/assets/6a6dc66d-7b16-457a-bddf-df870d3c4bd3)

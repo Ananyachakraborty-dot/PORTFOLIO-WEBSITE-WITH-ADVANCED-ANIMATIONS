@@ -53,10 +53,12 @@ This project enables you to combine core front-end development skills with advan
 
 **OUTPUT**
 
-![Image](https://github.com/user-attachments/assets/2d151cff-17b6-4566-8b01-c3e5b5de202b)
+![Image](https://github.com/user-attachments/assets/6a6dc66d-7b16-457a-bddf-df870d3c4bd3)
 
 ![Image](https://github.com/user-attachments/assets/8039d52d-65d4-4800-bb8b-ccf7249dcf2c)
 
 ![Image](https://github.com/user-attachments/assets/5620df81-569b-4c32-a96e-f2a7bcb4a846)
 
-![Image](https://github.com/user-attachments/assets/6a6dc66d-7b16-457a-bddf-df870d3c4bd3)
+![Image](https://github.com/user-attachments/assets/2d151cff-17b6-4566-8b01-c3e5b5de202b)
+
+
